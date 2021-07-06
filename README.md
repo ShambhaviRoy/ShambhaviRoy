@@ -1,6 +1,6 @@
 Hi, I’m @ShambhaviRoy
 
-I am a Masters in Electrical Engineering student at Columbia University specializing in Data-Driven Analysis and Computation. 
+I'm a Masters in Electrical Engineering student at Columbia University specializing in Data-Driven Analysis and Computation. 
 
 I’m interested in Machine Learning and Deep Learning and I'm passionate about the ability of these domains to influence future technological developments.
 
