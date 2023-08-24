@@ -1,8 +1,8 @@
 Hi, I’m @ShambhaviRoy
 
-I'm a Masters in Electrical Engineering student at Columbia University specializing in Data-Driven Analysis and Computation. 
+I'm currently working on Software Engineering.
 
-I’m interested in Machine Learning and Deep Learning and I'm passionate about the ability of these domains to influence future technological developments.
+Prior to joining industry, I graduated with a Masters in Electrical Engineering from Columbia University specializing in Data-Driven Analysis and Computation. 
 
 <!---
 - 🌱 I’m currently learning Software Engineering and System Design
