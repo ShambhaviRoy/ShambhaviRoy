@@ -1,6 +1,6 @@
 Hi, I’m @ShambhaviRoy
 
-I'm currently working on Software Engineering.
+I'm a Software Engineer.
 
 Prior to joining industry, I graduated with a Masters in Electrical Engineering from Columbia University specializing in Data-Driven Analysis and Computation. 
 
